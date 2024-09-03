@@ -31,3 +31,7 @@ The model achieved a Mean Absolute Error of `XYZ` on the test data.
 
 Base de datos ficticia:
 [synthetic_sales_data.csv](https://github.com/user-attachments/files/16853667/synthetic_sales_data.csv)
+
+Link a google collaboratory: 
+https://colab.research.google.com/drive/1yXSOZoOwwwJx0BZcdwdTGk7MQHrVGAMa?usp=sharing
+
