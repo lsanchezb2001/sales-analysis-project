@@ -28,3 +28,6 @@ This project involves analyzing synthetic sales data to predict future revenue u
 The model achieved a Mean Absolute Error of `XYZ` on the test data.
 
 ![Revenue Distribution](revenue_distribution.png)
+
+Base de datos ficticia:
+[synthetic_sales_data.csv](https://github.com/user-attachments/files/16853667/synthetic_sales_data.csv)
