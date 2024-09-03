@@ -35,3 +35,6 @@ Base de datos ficticia:
 Link a google collaboratory: 
 https://colab.research.google.com/drive/1yXSOZoOwwwJx0BZcdwdTGk7MQHrVGAMa?usp=sharing
 
+Conversación chatgpt: 
+https://chatgpt.com/share/cbb37e88-5f55-4d77-a04f-8433e29e1eaf
+
